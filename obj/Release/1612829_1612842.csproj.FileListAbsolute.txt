@@ -1,0 +1,16 @@
+E:\Freshman\HK5\ComputerGraphic\1612829_1612842\1612829_1612842\bin\Release\1612829_1612842.exe.config
+E:\Freshman\HK5\ComputerGraphic\1612829_1612842\1612829_1612842\bin\Release\1612829_1612842.exe
+E:\Freshman\HK5\ComputerGraphic\1612829_1612842\1612829_1612842\bin\Release\1612829_1612842.pdb
+E:\Freshman\HK5\ComputerGraphic\1612829_1612842\1612829_1612842\obj\Release\_1612829_1612842.FormPaint.resources
+E:\Freshman\HK5\ComputerGraphic\1612829_1612842\1612829_1612842\obj\Release\_1612829_1612842.Properties.Resources.resources
+E:\Freshman\HK5\ComputerGraphic\1612829_1612842\1612829_1612842\obj\Release\1612829_1612842.csproj.GenerateResource.Cache
+E:\Freshman\HK5\ComputerGraphic\1612829_1612842\1612829_1612842\obj\Release\1612829_1612842.exe
+E:\Freshman\HK5\ComputerGraphic\1612829_1612842\1612829_1612842\obj\Release\1612829_1612842.pdb
+E:\Freshman\HK5\ComputerGraphic\1612829_1612842\1612829_1612842\obj\Release\1612829_1612842.csprojResolveAssemblyReference.cache
+E:\Freshman\HK5\ComputerGraphic\1612829_1612842\1612829_1612842\obj\Release\_1612829_1612842.AboutBox.resources
+E:\Freshman\HK5\ComputerGraphic\1612829_1612842\1612829_1612842\obj\Release\_1612829_1612842.FormInputSizeWorkplace.resources
+E:\Freshman\HK5\ComputerGraphic\1612829_1612842\1612829_1612842\obj\Release\_1612829_1612842.HDSD.resources
+E:\Freshman\HK5\ComputerGraphic\1612829_1612842\1612829_1612842\obj\Release\_1612829_1612842.InputTextForm.resources
+E:\Freshman\HK5\ComputerGraphic\NopBai\1612829_1612842\1612829_1612842\1612829_1612842\bin\Release\1612829_1612842.exe.config
+E:\Freshman\HK5\ComputerGraphic\NopBai\1612829_1612842\1612829_1612842\1612829_1612842\obj\Release\1612829_1612842.exe
+E:\Freshman\HK5\ComputerGraphic\NopBai\1612829_1612842\1612829_1612842\1612829_1612842\obj\Release\1612829_1612842.pdb
